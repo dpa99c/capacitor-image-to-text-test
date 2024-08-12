@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-image-to-text-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
